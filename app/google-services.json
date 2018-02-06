@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "864677366976",
+    "firebase_url": "https://docapp-10d2e.firebaseio.com",
+    "project_id": "docapp-10d2e",
+    "storage_bucket": "docapp-10d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864677366976:android:b18c86f52dcbb9c6",
+        "android_client_info": {
+          "package_name": "com.example.sameer.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864677366976-o0fq31khihkaa1o6d1ebhmlg5l5mkclc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sameer.myapplication",
+            "certificate_hash": "560e0e979b6b48676e5041547cc910844dd8645c"
+          }
+        },
+        {
+          "client_id": "864677366976-bf11nnad804ailf8igp6miqeb9t74ath.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5-uad_2br-r50mWLtCV_FXTwdHh1OzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864677366976-bf11nnad804ailf8igp6miqeb9t74ath.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

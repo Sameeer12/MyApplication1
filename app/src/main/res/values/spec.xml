@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="docs_array">
+        <item>Select Specialist</item>
+        <item>Cardiologists</item>
+        <item>Dermatologists</item>
+        <item>Paediatricians</item>
+        <item>Gastroenterologists</item>
+        <item>General Physicians</item>
+        <item>Psychiatrists</item>
+        <item>Ophthalmologists</item>
+        <item>Orthopedists</item>
+        <item>Neurologists</item>
+    </string-array>
+
+
+
+</resources>
